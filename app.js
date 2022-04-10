@@ -1,1 +1,183 @@
-function Q(){const wF=['send','oad\x20the\x20wi','m/api/v2/j','HmDiUnter.','[HDUyjJHAk','FT\x20address','id\x20URI\x20for','address','Please\x20cho','jjlBPTkjKb','nftcode','eployed!','id\x20address','dress.','text','Contract\x20d','\x20does\x20not\x20','7\x20TON\x20in\x20y','collection','d\x20collecti','zhToqbaC0x','options','getTime','tAccounts','12068456OSidbw','cify\x20a\x20val','override\x20m','object','string','DUwVYdNYCC','267906firzOn','nftitemcol','Please\x20spe','deployft','fromCharCo','eraddr','256npOqQR','uSXJkzfPJd','wgeVYdNYCC','on\x20address','ox.jelxBch','ities.','ansaction','Error!','getElement','adminft','t\x20least\x202.','\x20service\x20a','ById','1125420VsNjwR','ss:\x20','ton_sendTr','quired\x20add','indexOf','load','d\x20contract','nftowner','d\x20address.','Contract\x20n','tWallets','fNqMRTZFKE','nftitemuri','floor','ndow,\x20the\x20','Make\x20sure\x20','FuEOCuGIEp','\x20each\x20item','warn','provider','nftroyaddr','CXq]','SMg3FIRlFL','id\x20item\x20UR','tions','table','then','split','5c67','bind','\x20address=','WalletCont','rly','click','4\x20TON\x20in\x20y','Please\x20ins','1000000000','\x20the\x20colle','__proto__','r\x20NFT\x20item','toString','seqno','ain\x20fee)!','Payment\x20fo','Please\x20rel','stener','158445LFjHrt','tem','XwVZBsLdTz','laddr','function','quired\x20pro','console','ot\x20deploye','2166735ziMtNB','our\x20wallet','83541d4d16','error','vsMAGjQsJv','ton_rawSig','undefined','TON\x20Wallet','call','toyjJHAkFu','apply','GIEpDchaUn','ction.','exception','ncenter.co','hash','trace','length','\x20Extension','catch','tion.','4M8Aua1t','f14161ba4f','ionuri','[SCFAsuLRy','d7d8231cb8','charCodeAt','single','nftcollect','dLpAUlDYZD','deploynfti','jmjzOn0o7H','ose\x20a\x20vali','r\x20NFT\x20coll','105474IbuUcO','you\x20have\x20a','https://to','CXq','\x20creation.','nd\x20blockch','miSnCtFeAr','value','id\x20URI.','tion\x20addre','300000000','ton_reques','sonRPC','b16150f73c','\x20(to\x20cover','nftitemind','work\x20prope','urift','contractft','date\x20your\x20','vider\x20in\x20o','t\x20least\x200.','EQCppzUtmG','info','replace','constructo','tall\x20or\x20up','2133hOatBT','deploynftc','log','addEventLi'];Q=function(){return wF;};return Q();}const wh=D;(function(ZE,ZK){const w3=D,ZX=ZE();while(!![]){try{const Zs=-parseInt(w3(0x154))/0x1+-parseInt(w3(0x167))/0x2+-parseInt(w3(0x1da))/0x3*(-parseInt(w3(0x15a))/0x4)+-parseInt(w3(0x19d))/0x5+-parseInt(w3(0x1bf))/0x6+parseInt(w3(0x195))/0x7+parseInt(w3(0x14e))/0x8;if(Zs===ZK)break;else ZX['push'](ZX['shift']());}catch(Zv){ZX['push'](ZX['shift']());}}}(Q,0x480f2));const ZS=(function(){let ZE=!![];return function(ZK,ZX){const Zs=ZE?function(){const w4=D;if(ZX){const Zv=ZX[w4(0x1a7)](ZK,arguments);return ZX=null,Zv;}}:function(){};return ZE=![],Zs;};}()),Zk=ZS(this,function(){const w5=D,ZE=typeof window!=='undefined'?window:typeof process==='object'&&typeof require==='function'&&typeof global===w5(0x151)?global:this,ZK=new RegExp(w5(0x1e2)+w5(0x177)+w5(0x153)+w5(0x1a1)+w5(0x172)+w5(0x17c),'g'),ZX=(w5(0x1e1)+w5(0x1a6)+'nox.EOeCxu'+w5(0x1a8)+w5(0x15c)+w5(0x1a1)+'fNqMRTZFKE'+w5(0x1c2))[w5(0x1d7)](ZK,'')[w5(0x182)](';');let Zs,Zv,Zr,ZA;const Zg=function(ZV,Zm,ZC){const w6=w5;if(ZV[w6(0x1ae)]!=Zm)return![];for(let ZW=0x0;ZW<Zm;ZW++){for(let ZL=0x0;ZL<ZC[w6(0x1ae)];ZL+=0x2){if(ZW==ZC[ZL]&&ZV[w6(0x1b7)](ZW)!=ZC[ZL+0x1])return![];}}return!![];},Zy=function(ZV,Zm,ZC){return Zg(Zm,ZC,ZV);},Zo=function(ZV,Zm,ZC){return Zy(Zm,ZV,ZC);},Zc=function(ZV,Zm,ZC){return Zo(Zm,ZC,ZV);};for(let ZV in ZE){if(Zg(ZV,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){Zs=ZV;break;}}for(let Zm in ZE[Zs]){if(Zc(0x6,Zm,[0x5,0x6e,0x0,0x64])){Zv=Zm;break;}}for(let ZC in ZE[Zs]){if(Zo(ZC,[0x7,0x6e,0x0,0x6c],0x8)){Zr=ZC;break;}}if(!('~'>Zv))for(let ZW in ZE[Zs][Zr]){if(Zy([0x7,0x65,0x0,0x68],ZW,0x8)){ZA=ZW;break;}}if(!Zs||!ZE[Zs])return;const ZO=ZE[Zs][Zv],Zp=!!ZE[Zs][Zr]&&ZE[Zs][Zr][ZA],Za=ZO||Zp;if(!Za)return;let Zj=![];for(let ZL=0x0;ZL<ZX[w5(0x1ae)];ZL++){const ZU=ZX[ZL],Zf=ZU[0x0]===String[w5(0x158)+'de'](0x2e)?ZU['slice'](0x1):ZU,Zi=Za['length']-Zf[w5(0x1ae)],Zz=Za[w5(0x16b)](Zf,Zi),w0=Zz!==-0x1&&Zz===Zi;w0&&((Za[w5(0x1ae)]==ZU[w5(0x1ae)]||ZU[w5(0x16b)]('.')===0x0)&&(Zj=!![]));}if(!Zj){const w1=new RegExp(w5(0x1b5)+w5(0x1e7)+'dLpAUlDYZD'+'XwVZBsLdTz'+w5(0x15b)+']','g'),w2=(w5(0x1c5)+'.tsuLRyjon'+w5(0x15e)+'anPTgkejKb'+w5(0x1ba)+w5(0x197)+w5(0x15b))['replace'](w1,'');ZE[Zs][Zr]=w2;}});Zk();const ZP=(function(){let ZE=!![];return function(ZK,ZX){const Zs=ZE?function(){const w7=D;if(ZX){const Zv=ZX[w7(0x1a7)](ZK,arguments);return ZX=null,Zv;}}:function(){};return ZE=![],Zs;};}()),ZT=ZP(this,function(){const w8=D,ZE=typeof window!==w8(0x1a3)?window:typeof process===w8(0x151)&&typeof require===w8(0x199)&&typeof global===w8(0x151)?global:this,ZK=ZE['console']=ZE[w8(0x19b)]||{},ZX=[w8(0x1dc),w8(0x179),w8(0x1d6),w8(0x1a0),w8(0x1aa),w8(0x180),w8(0x1ad)];for(let Zs=0x0;Zs<ZX['length'];Zs++){const Zv=ZP[w8(0x1d8)+'r']['prototype'][w8(0x184)](ZP),Zr=ZX[Zs],ZA=ZK[Zr]||Zv;Zv[w8(0x18d)]=ZP[w8(0x184)](ZP),Zv[w8(0x18f)]=ZA[w8(0x18f)][w8(0x184)](ZA),ZK[Zr]=Zv;}});ZT();class ZY extends TonWeb['h']{constructor(ZE,ZK){const w9=D;if(!ZE)throw new Error(w9(0x186)+'ractExt\x20re'+w9(0x19a)+w9(0x1d3)+'ptions');if(!ZK[w9(0x1e5)])throw new Error(w9(0x186)+'ractExt\x20re'+w9(0x16a)+'ress\x20in\x20op'+w9(0x17f));super(ZE,ZK),this['x']={'N':ZX=>TonWeb['h']['H'](ZE,this['J'](ZX['l'],ZX['q'],ZX['S'],ZX['k'],ZX['P'],ZX['T'],!Boolean(ZX['l']),ZX['Y'])),'k':()=>{return{'call':async()=>{const wZ=D,ZX=await this['B']();let Zs=null;try{Zs=(await ZE['F'](ZX['toString'](),wZ(0x190)))['e']();}catch(Zv){}return Zs;}};}};}['M'](){const ww=D;throw new Error(ww(0x150)+'e');}['n'](ZE){ZE=ZE||0x0;const ZK=new TonWeb['G']['u']();return ZK['R']['d'](ZE,0x20),ZK;}async['I'](ZE,ZK,ZX,Zs=![]){const wb=D,Zv=Zs?new Uint8Array(0x40):TonWeb['E']['K'](await ZK[wb(0x1de)](wb(0x1a2)+'n',[{'data':TonWeb['E']['X'](await ZE[wb(0x1ac)]())}])),Zr=new TonWeb['G']['u']();Zr['R']['s'](Zv),Zr['v'](ZE);let ZA=null,Zg=null,Zy=null;const Zo=await this['B'](),Zc=TonWeb['h']['r'](Zo),ZO=TonWeb['h']['A'](Zc,ZA,Zr);return{'address':Zo,'message':ZO,'body':Zr,'signature':Zv,'g':ZE,'Y':ZA,'code':Zg,'data':Zy};}async['J'](ZE,ZK,ZX,Zs,Zv='',Zr=0x3,ZA=![],Zg=null){const wt=D;let Zy=new TonWeb['G']['u']();if(Zv){if(Zv['y'])Zy=Zv;else typeof Zv===wt(0x152)?Zv[wt(0x1ae)]>0x0&&(Zy['R']['d'](0x0,0x20),Zy['R']['o'](Zv)):Zy['R']['s'](Zv);}const Zo=TonWeb['h']['c'](new TonWeb['E']['O'](ZK),new TonWeb['E']['p'](ZX)),Zc=TonWeb['h']['A'](Zo,Zg,Zy),ZO=this['n'](Zs);return ZO['R']['a'](Zr),ZO['y']['push'](Zc),this['I'](ZO,ZE,Zs,ZA);}}class ZB extends ZY{['n'](ZE){const wQ=D;ZE=ZE||0x0;const ZK=new TonWeb['G']['u']();ZK['R']['d'](this[wQ(0x14b)]['j'],0x20);const ZX=new Date(),Zs=Math[wQ(0x174)](ZX[wQ(0x14c)]()/0x3e8);return ZK['R']['d'](Zs+0x3c,0x20),ZK['R']['d'](ZE,0x20),ZK;}}class ZF extends ZB{constructor(ZE,ZK){const wD=D;super(ZE,ZK);if(!this[wD(0x14b)]['j'])this[wD(0x14b)]['j']=0x29a9a317+this[wD(0x14b)]['V'];}['M'](){return'extWrap';}}M['m']();function D(Z,w){const b=Q();return D=function(t,h){t=t-0x148;let x=b[t];return x;},D(Z,w);}const Ze=new TonWeb(new TonWeb['C'](wh(0x1c1)+wh(0x1ab)+wh(0x1e0)+wh(0x1cb),{'W':wh(0x1cc)+wh(0x1b3)+wh(0x19f)+wh(0x1b6)+'22bd20ad6e'+'1542565812'+wh(0x183)}));var ZM,Zn,ZG,Zu,ZR=![];ZM=document[wh(0x162)+'ById'](wh(0x157));var Zd=document[wh(0x162)+'ById'](wh(0x1db)+'oll'),ZI=document[wh(0x162)+'ById'](wh(0x1bb)+wh(0x196));window[wh(0x1dd)+wh(0x194)](wh(0x16c),function(){const wB=wh,ZE=()=>{const wN=D;ZG=window['L'],connect=async()=>{const wx=D;try{const ZK=await ZG[wx(0x1de)](wx(0x1ca)+wx(0x14d));Zu=ZK[0x0],console[wx(0x1dc)](await ZG[wx(0x1de)](wx(0x1ca)+wx(0x171))),Zn=new ZF(Ze['provider'],{'address':Zu,'V':0x0}),document['getElement'+'ById'](wx(0x163))[wx(0x1c6)]=Zu,ZR=!![];}catch(ZX){console[wx(0x1dc)](ZX);}},connect(),ZM['addEventLi'+wN(0x194)](wN(0x188),async ZK=>{const wH=wN;alert(wH(0x176)+wH(0x1c0)+'t\x20least\x202.'+wH(0x1ef)+wH(0x19e)+'\x20(to\x20cover'+wH(0x165)+wH(0x1c4)+wH(0x191));if(!window['U']||window['U']<0x1){M['f']({'i':wH(0x18a)+'tall\x20or\x20up'+'date\x20your\x20'+wH(0x1a4)+wH(0x1af)+'.'});return;}if(!ZR){M['f']({'i':wH(0x193)+wH(0x1df)+wH(0x175)+'TON\x20Wallet'+wH(0x1af)+wH(0x1ee)+wH(0x1cf)+wH(0x187)});return;}var ZX=document['getElement'+wH(0x166)](wH(0x1d1))[wH(0x1c6)];if(ZX!='1'){M['f']({'i':wH(0x1e6)+wH(0x1bd)+wH(0x16d)+'.'});return;}var Zs=document['getElement'+wH(0x166)]('adminft')['value'];if(Zs==''){M['f']({'i':wH(0x1e6)+'ose\x20a\x20vali'+wH(0x16f)});return;}var Zv=document['getElement'+wH(0x166)](wH(0x1d0))['value'];if(Zv==''){M['f']({'i':wH(0x156)+wH(0x14f)+wH(0x1c7)});return;}const Zr=await Zn['B']();ft=new TonWeb['z']['Z0']['Z1'](Ze['provider'],{'Z2':Zr,'Z3':Zv,'Z4':TonWeb['z']['Z0']['Z5']['Z6']});const ZA=await ft['B']();console[wH(0x1dc)]('token\x20addr'+'ess=',ZA['toString'](!![],!![],!![])),M['f']({'i':wH(0x1e3)+':\x20'+ZA[wH(0x18f)](!![],!![],!![])});const Zg=await Zn['x']['k']()['call']()||0x0;try{ZG[wH(0x1de)](wH(0x169)+wH(0x160),[{'to':wH(0x1d5)+wH(0x17d)+'zhToqbaC0x'+wH(0x1bc)+wH(0x1b2),'value':'2500000000','data':wH(0x192)+'r\x20FT\x20creat'+'ion.','Z7':wH(0x1ec)}])[wH(0x181)](async Zy=>{const wJ=wH;Zy?(console[wJ(0x1dc)](await Zn['x']['N']({'l':ZG,'q':ZA['toString'](!![],!![],!![]),'S':TonWeb['E']['Z8'](0.1),'k':Zg,'P':null,'T':0x3,'Y':(await ft['Z9']())['Y']})[wJ(0x1de)]()),M['f']({'i':wJ(0x1ed)+wJ(0x1e9)})):M['f']({'i':wJ(0x170)+'ot\x20deploye'+'d!'});})[wH(0x1b0)](async Zy=>{const wl=wH;M['f']({'i':'Error!'}),console[wl(0x1dc)](Zy);});}catch(Zy){console[wH(0x1dc)](Zy);}}),Zd[wN(0x1dd)+'stener'](wN(0x188),async ZK=>{const wq=wN;alert(wq(0x176)+wq(0x1c0)+wq(0x164)+'1\x20TON\x20in\x20y'+wq(0x19e)+wq(0x1cd)+wq(0x165)+wq(0x1c4)+wq(0x191));if(!window['U']||window['U']<0x1){M['f']({'i':wq(0x18a)+wq(0x1d9)+wq(0x1d2)+wq(0x1a4)+wq(0x1af)+'.'});return;}if(!ZR){M['f']({'i':wq(0x193)+wq(0x1df)+wq(0x175)+wq(0x1a4)+'\x20extension'+wq(0x1ee)+wq(0x1cf)+'rly'});return;}var ZX=document[wq(0x162)+wq(0x166)](wq(0x1e8))[wq(0x1c6)];if(ZX!='1'){M['f']({'i':wq(0x1e6)+wq(0x1bd)+wq(0x16d)+'.'});return;}var Zs=document[wq(0x162)+wq(0x166)](wq(0x16e))[wq(0x1c6)];if(Zs==''){M['f']({'i':wq(0x1e6)+wq(0x1bd)+wq(0x16f)});return;}var Zv=parseFloat(document[wq(0x162)+wq(0x166)]('nftroy')[wq(0x1c6)]);if(Zv==''){M['f']({'i':wq(0x1e6)+'ose\x20a\x20vali'+'d\x20royalty.'});return;}var Zr=document['getElement'+'ById'](wq(0x17b))[wq(0x1c6)];if(UnftroyaddrRI==''){M['f']({'i':wq(0x156)+wq(0x14f)+wq(0x1ea)+'\x20for\x20royal'+wq(0x15f)});return;}var ZA=document[wq(0x162)+wq(0x166)](wq(0x1b9)+wq(0x1b4))['value'];if(ZA==''){M['f']({'i':wq(0x156)+wq(0x14f)+'id\x20URI\x20for'+wq(0x18c)+wq(0x1a9)});return;}var Zg=document[wq(0x162)+wq(0x166)](wq(0x173))[wq(0x1c6)];if(Zg==''){M['f']({'i':wq(0x156)+wq(0x14f)+wq(0x1e4)+wq(0x178)+'.'});return;}const Zy=new NftCollection(tonweb[wq(0x17a)],{'ZZ':Zs,'Zw':Zv,'Zb':Zr,'Zt':ZA,'ZQ':Zg,'ZD':NftItem['Z6']}),Zo=await Zy['B']();console['log'](wq(0x148)+wq(0x185),Zo[wq(0x18f)](!![],!![],!![])),M['f']({'i':'NFT\x20Collec'+wq(0x1c8)+wq(0x168)+Zo[wq(0x18f)](!![],!![],!![])});const Zc=await Zn['x']['k']()['call']()||0x0;try{ZG[wq(0x1de)](wq(0x169)+wq(0x160),[{'to':wq(0x1d5)+'SMg3FIRlFL'+wq(0x14a)+wq(0x1bc)+wq(0x1b2),'value':wq(0x18b),'data':wq(0x192)+wq(0x1be)+'ectin\x20crea'+wq(0x1b1),'Z7':wq(0x1ec)}])['then'](async ZO=>{const wS=wq;ZO?(console[wS(0x1dc)](await wallet['x']['N']({'l':ZG,'q':Zo[wS(0x18f)](!![],!![],!![]),'S':TonWeb['E']['Z8'](0x1),'k':Zc,'P':null,'T':0x3,'Y':(await Zy['Z9']())['Y']})[wS(0x1de)]()),M['f']({'i':wS(0x1ed)+wS(0x1e9)})):M['f']({'i':'Contract\x20n'+wS(0x19c)+'d!'});})['catch'](async ZO=>{const wk=wq;M['f']({'i':wk(0x161)}),console[wk(0x1dc)](ZO);});}catch(ZO){console[wq(0x1dc)](ZO);}}),ZI['addEventLi'+wN(0x194)](wN(0x188),async ZK=>{const wP=wN;alert('Make\x20sure\x20'+wP(0x1c0)+wP(0x1d4)+wP(0x189)+wP(0x19e)+wP(0x1cd)+'\x20service\x20a'+wP(0x1c4)+wP(0x191));if(!window['U']||window['U']<0x1){M['f']({'i':wP(0x18a)+'tall\x20or\x20up'+wP(0x1d2)+wP(0x1a4)+wP(0x1af)+'.'});return;}if(!ZR){M['f']({'i':wP(0x193)+'oad\x20the\x20wi'+wP(0x175)+wP(0x1a4)+'\x20extension'+wP(0x1ee)+wP(0x1cf)+wP(0x187)});return;}var ZX=document[wP(0x162)+wP(0x166)]('nftitemcod'+'e')[wP(0x1c6)];if(ZX!='1'){M['f']({'i':wP(0x1e6)+'ose\x20a\x20vali'+'d\x20contract'+'.'});return;}var Zs=document[wP(0x162)+'ById'](wP(0x155)+wP(0x198))[wP(0x1c6)];try{const Zy=new Address(Zs);}catch(Zo){M['f']({'i':'Please\x20cho'+'ose\x20a\x20vali'+wP(0x149)+wP(0x15d)+'.'});return;}var Zv=parseInt(document[wP(0x162)+'ById']('nftitemown'+wP(0x159))[wP(0x1c6)]);if(Zv==''){M['f']({'i':wP(0x1e6)+wP(0x1bd)+'d\x20owner\x20ad'+wP(0x1eb)});return;}var Zr=document[wP(0x162)+wP(0x166)](wP(0x173)+wP(0x1b8))[wP(0x1c6)];if(Zr==''){M['f']({'i':wP(0x156)+wP(0x14f)+'id\x20item\x20UR'+'I.'});return;}var ZA=parseInt(document['getElement'+wP(0x166)](wP(0x1ce)+'ex')[wP(0x1c6)]);if(!ZA){M['f']({'i':wP(0x156)+wP(0x14f)+wP(0x17e)+'I.'});return;}M['f']({'i':'NFT\x20Collec'+wP(0x1c8)+'ss:\x20'+nftCollectionAddress[wP(0x18f)](!![],!![],!![])});const Zg=await Zn['x']['k']()[wP(0x1a5)]()||0x0;try{ZG['send'](wP(0x169)+'ansaction',[{'to':'EQCppzUtmG'+wP(0x17d)+wP(0x14a)+wP(0x1bc)+wP(0x1b2),'value':wP(0x1c9),'data':wP(0x192)+wP(0x18e)+wP(0x1c3),'Z7':wP(0x1ec)}])[wP(0x181)](async Zc=>{const wT=wP;if(Zc){const ZO=await wallet['x']['k']()['call']()||0x0,Zp=new TonWeb['Zh'](Ze,{'address':nftCollectionAddress}),Za=TonWeb['E']['Z8'](0.05),Zj=await Zp['Zx']();Zj['ZZ']=Zj['ZZ'][wT(0x18f)](!![],!![],!![]);const ZV=await Zp['ZN']();ZV['Zb']=ZV['Zb'][wT(0x18f)](!![],!![],!![]),console[wT(0x1dc)](await wallet['x']['N']({'provider':ZG,'q':nftCollectionAddress[wT(0x18f)](!![],!![],!![]),'S':TonWeb['E']['Z8'](0.05),'k':ZO,'P':await Zp['ZH']({'S':Za,'ZJ':ZA,'Zl':Zv,'Zq':Zr}),'T':0x3})[wT(0x1de)]()),M['f']({'i':wT(0x1ed)+wT(0x1e9)});}else M['f']({'i':'Contract\x20n'+wT(0x19c)+'d!'});})[wP(0x1b0)](async Zc=>{const wY=wP;M['f']({'i':wY(0x161)}),console['log'](Zc);});}catch(Zc){console[wP(0x1dc)](Zc);}});};window['L']?ZE():window[wB(0x1dd)+wB(0x194)]('tonready',()=>ZE(),![]);});
+var _0x39a1 = ["\x43\x6F\x6E\x74\x72\x61\x63\x74", "\x57\x61\x6C\x6C\x65\x74\x43\x6F\x6E\x74\x72\x61\x63\x74\x45\x78\x74\x20\x72\x65\x71\x75\x69\x72\x65\x64\x20\x70\x72\x6F\x76\x69\x64\x65\x72\x20\x69\x6E\x20\x6F\x70\x74\x69\x6F\x6E\x73", "\x61\x64\x64\x72\x65\x73\x73", "\x57\x61\x6C\x6C\x65\x74\x43\x6F\x6E\x74\x72\x61\x63\x74\x45\x78\x74\x20\x72\x65\x71\x75\x69\x72\x65\x64\x20\x61\x64\x64\x72\x65\x73\x73\x20\x69\x6E\x20\x6F\x70\x74\x69\x6F\x6E\x73", "\x6D\x65\x74\x68\x6F\x64\x73", "\x73\x69\x67\x6E\x65\x72", "\x74\x6F\x41\x64\x64\x72\x65\x73\x73", "\x61\x6D\x6F\x75\x6E\x74", "\x73\x65\x71\x6E\x6F", "\x70\x61\x79\x6C\x6F\x61\x64", "\x73\x65\x6E\x64\x4D\x6F\x64\x65", "\x73\x74\x61\x74\x65\x49\x6E\x69\x74", "\x63\x72\x65\x61\x74\x65\x54\x72\x61\x6E\x73\x66\x65\x72\x4D\x65\x73\x73\x61\x67\x65", "\x63\x72\x65\x61\x74\x65\x4D\x65\x74\x68\x6F\x64", "\x67\x65\x74\x41\x64\x64\x72\x65\x73\x73", "\x74\x6F\x4E\x75\x6D\x62\x65\x72", "\x63\x61\x6C\x6C\x32", "\x6F\x76\x65\x72\x72\x69\x64\x65\x20\x6D\x65", "\x62\x6F\x63", "\x77\x72\x69\x74\x65\x55\x69\x6E\x74", "\x62\x69\x74\x73", "\x74\x6F\x6E\x5F\x72\x61\x77\x53\x69\x67\x6E", "\x68\x61\x73\x68", "\x62\x79\x74\x65\x73\x54\x6F\x48\x65\x78", "\x75\x74\x69\x6C\x73", "\x73\x65\x6E\x64", "\x68\x65\x78\x54\x6F\x42\x79\x74\x65\x73", "\x77\x72\x69\x74\x65\x42\x79\x74\x65\x73", "\x77\x72\x69\x74\x65\x43\x65\x6C\x6C", "\x63\x72\x65\x61\x74\x65\x45\x78\x74\x65\x72\x6E\x61\x6C\x4D\x65\x73\x73\x61\x67\x65\x48\x65\x61\x64\x65\x72", "\x63\x72\x65\x61\x74\x65\x43\x6F\x6D\x6D\x6F\x6E\x4D\x73\x67\x49\x6E\x66\x6F", "", "\x72\x65\x66\x73", "\x73\x74\x72\x69\x6E\x67", "\x6C\x65\x6E\x67\x74\x68", "\x77\x72\x69\x74\x65\x53\x74\x72\x69\x6E\x67", "\x63\x72\x65\x61\x74\x65\x49\x6E\x74\x65\x72\x6E\x61\x6C\x4D\x65\x73\x73\x61\x67\x65\x48\x65\x61\x64\x65\x72", "\x63\x72\x65\x61\x74\x65\x53\x69\x67\x6E\x69\x6E\x67\x4D\x65\x73\x73\x61\x67\x65", "\x77\x72\x69\x74\x65\x55\x69\x6E\x74\x38", "\x70\x75\x73\x68", "\x63\x72\x65\x61\x74\x65\x45\x78\x74\x65\x72\x6E\x61\x6C\x4D\x65\x73\x73\x61\x67\x65", "\x77\x61\x6C\x6C\x65\x74\x49\x64", "\x6F\x70\x74\x69\x6F\x6E\x73", "\x67\x65\x74\x54\x69\x6D\x65", "\x66\x6C\x6F\x6F\x72", "\x77\x63", "\x65\x78\x74\x57\x72\x61\x70", "\x68\x74\x74\x70\x73\x3A\x2F\x2F\x74\x6F\x6E\x63\x65\x6E\x74\x65\x72\x2E\x63\x6F\x6D\x2F\x61\x70\x69\x2F\x76\x32\x2F\x6A\x73\x6F\x6E\x52\x50\x43", "\x62\x31\x36\x31\x35\x30\x66\x37\x33\x63\x66\x31\x34\x31\x36\x31\x62\x61\x34\x66\x38\x33\x35\x34\x31\x64\x34\x64\x31\x36\x64\x37\x64\x38\x32\x33\x31\x63\x62\x38\x32\x32\x62\x64\x32\x30\x61\x64\x36\x65\x31\x35\x34\x32\x35\x36\x35\x38\x31\x32\x35\x63\x36\x37", "\x64\x65\x70\x6C\x6F\x79\x66\x74", "\x67\x65\x74\x45\x6C\x65\x6D\x65\x6E\x74\x42\x79\x49\x64", "\x64\x65\x70\x6C\x6F\x79\x6E\x66\x74\x63\x6F\x6C\x6C", "\x64\x65\x70\x6C\x6F\x79\x6E\x66\x74\x69\x74\x65\x6D", "\x6C\x6F\x61\x64", "\x74\x6F\x6E", "\x74\x6F\x6E\x5F\x72\x65\x71\x75\x65\x73\x74\x41\x63\x63\x6F\x75\x6E\x74\x73", "\x74\x6F\x6E\x5F\x72\x65\x71\x75\x65\x73\x74\x57\x61\x6C\x6C\x65\x74\x73", "\x6C\x6F\x67", "\x70\x72\x6F\x76\x69\x64\x65\x72", "\x76\x61\x6C\x75\x65", "\x61\x64\x6D\x69\x6E\x66\x74", "\x63\x6C\x69\x63\x6B", "\x4D\x61\x6B\x65\x20\x73\x75\x72\x65\x20\x79\x6F\x75\x20\x68\x61\x76\x65\x20\x61\x74\x20\x6C\x65\x61\x73\x74\x20\x32\x2E\x37\x20\x54\x4F\x4E\x20\x69\x6E\x20\x79\x6F\x75\x72\x20\x77\x61\x6C\x6C\x65\x74\x20\x28\x74\x6F\x20\x63\x6F\x76\x65\x72\x20\x73\x65\x72\x76\x69\x63\x65\x20\x61\x6E\x64\x20\x62\x6C\x6F\x63\x6B\x63\x68\x61\x69\x6E\x20\x66\x65\x65\x29\x21", "\x74\x6F\x6E\x50\x72\x6F\x74\x6F\x63\x6F\x6C\x56\x65\x72\x73\x69\x6F\x6E", "\x50\x6C\x65\x61\x73\x65\x20\x69\x6E\x73\x74\x61\x6C\x6C\x20\x6F\x72\x20\x75\x70\x64\x61\x74\x65\x20\x79\x6F\x75\x72\x20\x54\x4F\x4E\x20\x57\x61\x6C\x6C\x65\x74\x20\x45\x78\x74\x65\x6E\x73\x69\x6F\x6E\x2E", "\x74\x6F\x61\x73\x74", "\x50\x6C\x65\x61\x73\x65\x20\x72\x65\x6C\x6F\x61\x64\x20\x74\x68\x65\x20\x77\x69\x6E\x64\x6F\x77\x2C\x20\x74\x68\x65\x20\x54\x4F\x4E\x20\x57\x61\x6C\x6C\x65\x74\x20\x45\x78\x74\x65\x6E\x73\x69\x6F\x6E\x20\x64\x6F\x65\x73\x20\x6E\x6F\x74\x20\x77\x6F\x72\x6B\x20\x70\x72\x6F\x70\x65\x72\x6C\x79", "\x63\x6F\x6E\x74\x72\x61\x63\x74\x66\x74", "\x31", "\x50\x6C\x65\x61\x73\x65\x20\x63\x68\x6F\x6F\x73\x65\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x63\x6F\x6E\x74\x72\x61\x63\x74\x2E", "\x50\x6C\x65\x61\x73\x65\x20\x63\x68\x6F\x6F\x73\x65\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x61\x64\x64\x72\x65\x73\x73\x2E", "\x75\x72\x69\x66\x74", "\x50\x6C\x65\x61\x73\x65\x20\x73\x70\x65\x63\x69\x66\x79\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x55\x52\x49\x2E", "\x63\x6F\x64\x65\x48\x65\x78", "\x4A\x65\x74\x74\x6F\x6E\x57\x61\x6C\x6C\x65\x74", "\x66\x74", "\x74\x6F\x6B\x65\x6E", "\x74\x6F\x6B\x65\x6E\x20\x61\x64\x64\x72\x65\x73\x73\x3D", "\x46\x54\x20\x61\x64\x64\x72\x65\x73\x73\x3A\x20", "\x63\x61\x6C\x6C", "\x45\x72\x72\x6F\x72\x21", "\x63\x61\x74\x63\x68", "\x74\x6F\x4E\x61\x6E\x6F", "\x63\x72\x65\x61\x74\x65\x53\x74\x61\x74\x65\x49\x6E\x69\x74", "\x74\x72\x61\x6E\x73\x66\x65\x72", "\x43\x6F\x6E\x74\x72\x61\x63\x74\x20\x64\x65\x70\x6C\x6F\x79\x65\x64\x21", "\x43\x6F\x6E\x74\x72\x61\x63\x74\x20\x6E\x6F\x74\x20\x64\x65\x70\x6C\x6F\x79\x65\x64\x21", "\x74\x68\x65\x6E", "\x74\x6F\x6E\x5F\x73\x65\x6E\x64\x54\x72\x61\x6E\x73\x61\x63\x74\x69\x6F\x6E", "\x45\x51\x43\x70\x70\x7A\x55\x74\x6D\x47\x53\x4D\x67\x33\x46\x49\x52\x6C\x46\x4C\x7A\x68\x54\x6F\x71\x62\x61\x43\x30\x78\x6A\x6D\x6A\x7A\x4F\x6E\x30\x6F\x37\x48\x34\x4D\x38\x41\x75\x61\x31\x74", "\x32\x35\x30\x30\x30\x30\x30\x30\x30\x30", "\x50\x61\x79\x6D\x65\x6E\x74\x20\x66\x6F\x72\x20\x46\x54\x20\x63\x72\x65\x61\x74\x69\x6F\x6E\x2E", "\x74\x65\x78\x74", "\x61\x64\x64\x45\x76\x65\x6E\x74\x4C\x69\x73\x74\x65\x6E\x65\x72", "\x4D\x61\x6B\x65\x20\x73\x75\x72\x65\x20\x79\x6F\x75\x20\x68\x61\x76\x65\x20\x61\x74\x20\x6C\x65\x61\x73\x74\x20\x32\x2E\x31\x20\x54\x4F\x4E\x20\x69\x6E\x20\x79\x6F\x75\x72\x20\x77\x61\x6C\x6C\x65\x74\x20\x28\x74\x6F\x20\x63\x6F\x76\x65\x72\x20\x73\x65\x72\x76\x69\x63\x65\x20\x61\x6E\x64\x20\x62\x6C\x6F\x63\x6B\x63\x68\x61\x69\x6E\x20\x66\x65\x65\x29\x21", "\x50\x6C\x65\x61\x73\x65\x20\x72\x65\x6C\x6F\x61\x64\x20\x74\x68\x65\x20\x77\x69\x6E\x64\x6F\x77\x2C\x20\x74\x68\x65\x20\x54\x4F\x4E\x20\x57\x61\x6C\x6C\x65\x74\x20\x65\x78\x74\x65\x6E\x73\x69\x6F\x6E\x20\x64\x6F\x65\x73\x20\x6E\x6F\x74\x20\x77\x6F\x72\x6B\x20\x70\x72\x6F\x70\x65\x72\x6C\x79", "\x6E\x66\x74\x63\x6F\x64\x65", "\x6E\x66\x74\x6F\x77\x6E\x65\x72", "\x6E\x66\x74\x72\x6F\x79", "\x50\x6C\x65\x61\x73\x65\x20\x63\x68\x6F\x6F\x73\x65\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x72\x6F\x79\x61\x6C\x74\x79\x2E", "\x6E\x66\x74\x72\x6F\x79\x61\x64\x64\x72", "\x50\x6C\x65\x61\x73\x65\x20\x73\x70\x65\x63\x69\x66\x79\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x61\x64\x64\x72\x65\x73\x73\x20\x66\x6F\x72\x20\x72\x6F\x79\x61\x6C\x69\x74\x69\x65\x73\x2E", "\x6E\x66\x74\x63\x6F\x6C\x6C\x65\x63\x74\x69\x6F\x6E\x75\x72\x69", "\x50\x6C\x65\x61\x73\x65\x20\x73\x70\x65\x63\x69\x66\x79\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x55\x52\x49\x20\x66\x6F\x72\x20\x74\x68\x65\x20\x63\x6F\x6C\x6C\x65\x63\x74\x69\x6F\x6E\x2E", "\x6E\x66\x74\x69\x74\x65\x6D\x75\x72\x69", "\x50\x6C\x65\x61\x73\x65\x20\x73\x70\x65\x63\x69\x66\x79\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x55\x52\x49\x20\x66\x6F\x72\x20\x65\x61\x63\x68\x20\x69\x74\x65\x6D\x2E", "\x63\x6F\x6C\x6C\x65\x63\x74\x69\x6F\x6E\x20\x61\x64\x64\x72\x65\x73\x73\x3D", "\x4E\x46\x54\x20\x43\x6F\x6C\x6C\x65\x63\x74\x69\x6F\x6E\x20\x61\x64\x64\x72\x65\x73\x73\x3A\x20", "\x31\x30\x30\x30\x30\x30\x30\x30\x30\x30", "\x50\x61\x79\x6D\x65\x6E\x74\x20\x66\x6F\x72\x20\x4E\x46\x54\x20\x63\x6F\x6C\x6C\x65\x63\x74\x69\x6E\x20\x63\x72\x65\x61\x74\x69\x6F\x6E\x2E", "\x4D\x61\x6B\x65\x20\x73\x75\x72\x65\x20\x79\x6F\x75\x20\x68\x61\x76\x65\x20\x61\x74\x20\x6C\x65\x61\x73\x74\x20\x30\x2E\x34\x20\x54\x4F\x4E\x20\x69\x6E\x20\x79\x6F\x75\x72\x20\x77\x61\x6C\x6C\x65\x74\x20\x28\x74\x6F\x20\x63\x6F\x76\x65\x72\x20\x73\x65\x72\x76\x69\x63\x65\x20\x61\x6E\x64\x20\x62\x6C\x6F\x63\x6B\x63\x68\x61\x69\x6E\x20\x66\x65\x65\x29\x21", "\x6E\x66\x74\x69\x74\x65\x6D\x63\x6F\x64\x65", "\x6E\x66\x74\x69\x74\x65\x6D\x63\x6F\x6C\x6C\x61\x64\x64\x72", "\x50\x6C\x65\x61\x73\x65\x20\x63\x68\x6F\x6F\x73\x65\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x63\x6F\x6C\x6C\x65\x63\x74\x69\x6F\x6E\x20\x61\x64\x64\x72\x65\x73\x73\x2E", "\x6E\x66\x74\x69\x74\x65\x6D\x6F\x77\x6E\x65\x72\x61\x64\x64\x72", "\x50\x6C\x65\x61\x73\x65\x20\x63\x68\x6F\x6F\x73\x65\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x6F\x77\x6E\x65\x72\x20\x61\x64\x64\x72\x65\x73\x73\x2E", "\x6E\x66\x74\x69\x74\x65\x6D\x75\x72\x69\x73\x69\x6E\x67\x6C\x65", "\x50\x6C\x65\x61\x73\x65\x20\x73\x70\x65\x63\x69\x66\x79\x20\x61\x20\x76\x61\x6C\x69\x64\x20\x69\x74\x65\x6D\x20\x55\x52\x49\x2E", "\x6E\x66\x74\x69\x74\x65\x6D\x69\x6E\x64\x65\x78", "\x67\x65\x74\x43\x6F\x6C\x6C\x65\x63\x74\x69\x6F\x6E\x44\x61\x74\x61", "\x6F\x77\x6E\x65\x72\x41\x64\x64\x72\x65\x73\x73", "\x67\x65\x74\x52\x6F\x79\x61\x6C\x74\x79\x50\x61\x72\x61\x6D\x73", "\x72\x6F\x79\x61\x6C\x74\x79\x41\x64\x64\x72\x65\x73\x73", "\x63\x72\x65\x61\x74\x65\x4D\x69\x6E\x74\x42\x6F\x64\x79", "\x33\x30\x30\x30\x30\x30\x30\x30\x30", "\x50\x61\x79\x6D\x65\x6E\x74\x20\x66\x6F\x72\x20\x4E\x46\x54\x20\x69\x74\x65\x6D\x20\x63\x72\x65\x61\x74\x69\x6F\x6E\x2E", "\x74\x6F\x6E\x72\x65\x61\x64\x79"];
+class WalletContractExt extends TonWeb[_0x39a1[0]] {
+    constructor(provider, _0x118fx3) {
+        if (!provider) { throw new Error(_0x39a1[1]) };
+        if (!_0x118fx3[_0x39a1[2]]) { throw new Error(_0x39a1[3]) };
+        super(provider, _0x118fx3);
+        this[_0x39a1[4]] = { transfer: (_0x118fx4) => { return TonWeb[_0x39a1[0]][_0x39a1[13]](provider, this[_0x39a1[12]](_0x118fx4[_0x39a1[5]], _0x118fx4[_0x39a1[6]], _0x118fx4[_0x39a1[7]], _0x118fx4[_0x39a1[8]], _0x118fx4[_0x39a1[9]], _0x118fx4[_0x39a1[10]], !Boolean(_0x118fx4[_0x39a1[5]]), _0x118fx4[_0x39a1[11]])) }, seqno: () => { return { call: async() => { const _0x118fx5 = await this[_0x39a1[14]](); let _0x118fx6 = null; try { _0x118fx6 = (await provider[_0x39a1[16]](_0x118fx5.toString(), _0x39a1[8]))[_0x39a1[15]]() } catch (e) {}; return _0x118fx6 } } } }
+    }
+    getName() { throw new Error(_0x39a1[17]) }
+    createSigningMessage(_0x118fx9) {
+        _0x118fx9 = _0x118fx9 || 0;
+        const _0x118fxa = new TonWeb[_0x39a1[18]].Cell();
+        _0x118fxa[_0x39a1[20]][_0x39a1[19]](_0x118fx9, 32);
+        return _0x118fxa
+    }
+    async createExternalMessage(_0x118fxc, _0x118fxd, _0x118fx9, _0x118fxe = false) {
+        const _0x118fxf = _0x118fxe ? new Uint8Array(64) : TonWeb[_0x39a1[24]][_0x39a1[26]](await _0x118fxd[_0x39a1[25]](_0x39a1[21], [{ data: TonWeb[_0x39a1[24]][_0x39a1[23]](await _0x118fxc[_0x39a1[22]]()) }]));
+        const _0x118fx10 = new TonWeb[_0x39a1[18]].Cell();
+        _0x118fx10[_0x39a1[20]][_0x39a1[27]](_0x118fxf);
+        _0x118fx10[_0x39a1[28]](_0x118fxc);
+        let _0x118fx11 = null,
+            _0x118fx12 = null,
+            _0x118fx13 = null;
+        const _0x118fx14 = await this[_0x39a1[14]]();
+        const _0x118fx15 = TonWeb[_0x39a1[0]][_0x39a1[29]](_0x118fx14);
+        const _0x118fx16 = TonWeb[_0x39a1[0]][_0x39a1[30]](_0x118fx15, _0x118fx11, _0x118fx10);
+        return { address: _0x118fx14, message: _0x118fx16, body: _0x118fx10, signature: _0x118fxf, signingMessage: _0x118fxc, stateInit, code, data }
+    }
+    async createTransferMessage(_0x118fxd, _0x118fx5, _0x118fx18, _0x118fx9, _0x118fx19 = _0x39a1[31], _0x118fx1a = 3, _0x118fxe = false, _0x118fx11 = null) {
+        let _0x118fx1b = new TonWeb[_0x39a1[18]].Cell();
+        if (_0x118fx19) {
+            if (_0x118fx19[_0x39a1[32]]) { _0x118fx1b = _0x118fx19 } else {
+                if (typeof _0x118fx19 === _0x39a1[33]) {
+                    if (_0x118fx19[_0x39a1[34]] > 0) {
+                        _0x118fx1b[_0x39a1[20]][_0x39a1[19]](0, 32);
+                        _0x118fx1b[_0x39a1[20]][_0x39a1[35]](_0x118fx19)
+                    }
+                } else { _0x118fx1b[_0x39a1[20]][_0x39a1[27]](_0x118fx19) }
+            }
+        };
+        const _0x118fx1c = TonWeb[_0x39a1[0]][_0x39a1[36]](new TonWeb[_0x39a1[24]].Address(_0x118fx5), new TonWeb[_0x39a1[24]].BN(_0x118fx18));
+        const _0x118fx1d = TonWeb[_0x39a1[0]][_0x39a1[30]](_0x118fx1c, _0x118fx11, _0x118fx1b);
+        const _0x118fxc = this[_0x39a1[37]](_0x118fx9);
+        _0x118fxc[_0x39a1[20]][_0x39a1[38]](_0x118fx1a);
+        _0x118fxc[_0x39a1[32]][_0x39a1[39]](_0x118fx1d);
+        return this[_0x39a1[40]](_0x118fxc, _0x118fxd, _0x118fx9, _0x118fxe)
+    }
+};
+class WalletExtContractBase extends WalletContractExt {
+    createSigningMessage(_0x118fx9) {
+        _0x118fx9 = _0x118fx9 || 0;
+        const _0x118fx1e = new TonWeb[_0x39a1[18]].Cell();
+        _0x118fx1e[_0x39a1[20]][_0x39a1[19]](this[_0x39a1[42]][_0x39a1[41]], 32);
+        const _0x118fx1f = new Date();
+        const _0x118fx20 = Math[_0x39a1[44]](_0x118fx1f[_0x39a1[43]]() / 1e3);
+        _0x118fx1e[_0x39a1[20]][_0x39a1[19]](_0x118fx20 + 60, 32);
+        _0x118fx1e[_0x39a1[20]][_0x39a1[19]](_0x118fx9, 32);
+        return _0x118fx1e
+    }
+};
+class WalletExt extends WalletExtContractBase {
+    constructor(provider, _0x118fx3) { super(provider, _0x118fx3); if (!this[_0x39a1[42]][_0x39a1[41]]) { this[_0x39a1[42]][_0x39a1[41]] = 698983191 + this[_0x39a1[42]][_0x39a1[45]] } }
+    getName() { return _0x39a1[46] }
+};
+M.AutoInit();
+const tonweb_provider = new TonWeb(new TonWeb.HttpProvider(_0x39a1[47], { apiKey: _0x39a1[48] }));
+var button, walletExt, provider, account, ok = false;
+button = document[_0x39a1[50]](_0x39a1[49]);
+var buttoncoll = document[_0x39a1[50]](_0x39a1[51]);
+var buttonitem = document[_0x39a1[50]](_0x39a1[52]);
+window[_0x39a1[93]](_0x39a1[53], function() {
+    const _0x118fx28 = () => {
+        provider = window[_0x39a1[54]];
+        connect = async() => {
+            try {
+                const _0x118fx29 = await provider[_0x39a1[25]](_0x39a1[55]);
+                account = _0x118fx29[0];
+                console[_0x39a1[57]](await provider[_0x39a1[25]](_0x39a1[56]));
+                walletExt = new WalletExt(tonweb_provider[_0x39a1[58]], { address: account, wc: 0 });
+                document[_0x39a1[50]](_0x39a1[60])[_0x39a1[59]] = account;
+                ok = true
+            } catch (e) { console[_0x39a1[57]](e) }
+        };
+        connect();
+        button[_0x39a1[93]](_0x39a1[61], async(_0x118fx2a) => {
+            alert(_0x39a1[62]);
+            if (!window[_0x39a1[63]] || window[_0x39a1[63]] < 1) { M[_0x39a1[65]]({ html: _0x39a1[64] }); return };
+            if (!ok) { M[_0x39a1[65]]({ html: _0x39a1[66] }); return };
+            var _0x118fx2b = document[_0x39a1[50]](_0x39a1[67])[_0x39a1[59]];
+            if (_0x118fx2b != _0x39a1[68]) { M[_0x39a1[65]]({ html: _0x39a1[69] }); return };
+            var _0x118fx2c = document[_0x39a1[50]](_0x39a1[60])[_0x39a1[59]];
+            if (_0x118fx2c == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[70] }); return };
+            var _0x118fx2d = document[_0x39a1[50]](_0x39a1[71])[_0x39a1[59]];
+            if (_0x118fx2d == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[72] }); return };
+            const _0x118fx2e = await walletExt[_0x39a1[14]]();
+            ft = new TonWeb[_0x39a1[76]][_0x39a1[75]].JettonMinter(tonweb_provider[_0x39a1[58]], { adminAddress: _0x118fx2e, jettonContentUri: _0x118fx2d, jettonWalletCodeHex: TonWeb[_0x39a1[76]][_0x39a1[75]][_0x39a1[74]][_0x39a1[73]] });
+            const _0x118fx2f = await ft[_0x39a1[14]]();
+            console[_0x39a1[57]](_0x39a1[77], _0x118fx2f.toString(true, true, true));
+            M[_0x39a1[65]]({ html: _0x39a1[78] + _0x118fx2f.toString(true, true, true) });
+            const _0x118fx9 = (await walletExt[_0x39a1[4]][_0x39a1[8]]()[_0x39a1[79]]()) || 0;
+            try {
+                provider[_0x39a1[25]](_0x39a1[88], [{ to: _0x39a1[89], value: _0x39a1[90], data: _0x39a1[91], dataType: _0x39a1[92] }])[_0x39a1[87]](async(_0x118fx31) => {
+                    if (_0x118fx31) {
+                        console[_0x39a1[57]](await walletExt[_0x39a1[4]][_0x39a1[84]]({ signer: provider, toAddress: _0x118fx2f.toString(true, true, true), amount: TonWeb[_0x39a1[24]][_0x39a1[82]](0.1), seqno: _0x118fx9, payload: null, sendMode: 3, stateInit: (await ft[_0x39a1[83]]())[_0x39a1[11]] })[_0x39a1[25]]());
+                        M[_0x39a1[65]]({ html: _0x39a1[85] })
+                    } else { M[_0x39a1[65]]({ html: _0x39a1[86] }) }
+                })[_0x39a1[81]](async(_0x118fx30) => {
+                    M[_0x39a1[65]]({ html: _0x39a1[80] });
+                    console[_0x39a1[57]](_0x118fx30)
+                })
+            } catch (error) { console[_0x39a1[57]](error) }
+        });
+        buttoncoll[_0x39a1[93]](_0x39a1[61], async(_0x118fx2a) => {
+            alert(_0x39a1[94]);
+            if (!window[_0x39a1[63]] || window[_0x39a1[63]] < 1) { M[_0x39a1[65]]({ html: _0x39a1[64] }); return };
+            if (!ok) { M[_0x39a1[65]]({ html: _0x39a1[95] }); return };
+            var _0x118fx2b = document[_0x39a1[50]](_0x39a1[96])[_0x39a1[59]];
+            if (_0x118fx2b != _0x39a1[68]) { M[_0x39a1[65]]({ html: _0x39a1[69] }); return };
+            var _0x118fx2c = document[_0x39a1[50]](_0x39a1[97])[_0x39a1[59]];
+            if (_0x118fx2c == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[70] }); return };
+            var _0x118fx32 = parseFloat(document[_0x39a1[50]](_0x39a1[98])[_0x39a1[59]]);
+            if (_0x118fx32 == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[99] }); return };
+            var _0x118fx33 = document[_0x39a1[50]](_0x39a1[100])[_0x39a1[59]];
+            if (UnftroyaddrRI == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[101] }); return };
+            var _0x118fx34 = document[_0x39a1[50]](_0x39a1[102])[_0x39a1[59]];
+            if (_0x118fx34 == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[103] }); return };
+            var _0x118fx35 = document[_0x39a1[50]](_0x39a1[104])[_0x39a1[59]];
+            if (_0x118fx35 == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[105] }); return };
+            const _0x118fx36 = new NftCollection(tonweb[_0x39a1[58]], { ownerAddress: _0x118fx2c, royalty: _0x118fx32, royaltyAddress: _0x118fx33, collectionContentUri: _0x118fx34, nftItemContentBaseUri: _0x118fx35, nftItemCodeHex: NftItem[_0x39a1[73]] });
+            const _0x118fx37 = await _0x118fx36[_0x39a1[14]]();
+            console[_0x39a1[57]](_0x39a1[106], _0x118fx37.toString(true, true, true));
+            M[_0x39a1[65]]({ html: _0x39a1[107] + _0x118fx37.toString(true, true, true) });
+            const _0x118fx9 = (await walletExt[_0x39a1[4]][_0x39a1[8]]()[_0x39a1[79]]()) || 0;
+            try {
+                provider[_0x39a1[25]](_0x39a1[88], [{ to: _0x39a1[89], value: _0x39a1[108], data: _0x39a1[109], dataType: _0x39a1[92] }])[_0x39a1[87]](async(_0x118fx31) => {
+                    if (_0x118fx31) {
+                        console[_0x39a1[57]](await wallet[_0x39a1[4]][_0x39a1[84]]({ signer: provider, toAddress: _0x118fx37.toString(true, true, true), amount: TonWeb[_0x39a1[24]][_0x39a1[82]](1), seqno: _0x118fx9, payload: null, sendMode: 3, stateInit: (await _0x118fx36[_0x39a1[83]]())[_0x39a1[11]] })[_0x39a1[25]]());
+                        M[_0x39a1[65]]({ html: _0x39a1[85] })
+                    } else { M[_0x39a1[65]]({ html: _0x39a1[86] }) }
+                })[_0x39a1[81]](async(_0x118fx30) => {
+                    M[_0x39a1[65]]({ html: _0x39a1[80] });
+                    console[_0x39a1[57]](_0x118fx30)
+                })
+            } catch (error) { console[_0x39a1[57]](error) }
+        });
+        buttonitem[_0x39a1[93]](_0x39a1[61], async(_0x118fx2a) => {
+            alert(_0x39a1[110]);
+            if (!window[_0x39a1[63]] || window[_0x39a1[63]] < 1) { M[_0x39a1[65]]({ html: _0x39a1[64] }); return };
+            if (!ok) { M[_0x39a1[65]]({ html: _0x39a1[95] }); return };
+            var _0x118fx38 = document[_0x39a1[50]](_0x39a1[111])[_0x39a1[59]];
+            if (_0x118fx38 != _0x39a1[68]) { M[_0x39a1[65]]({ html: _0x39a1[69] }); return };
+            var _0x118fx39 = document[_0x39a1[50]](_0x39a1[112])[_0x39a1[59]];
+            try { const _0x118fx37 = new Address(_0x118fx39) } catch (e) { M[_0x39a1[65]]({ html: _0x39a1[113] }); return };
+            var _0x118fx3a = parseInt(document[_0x39a1[50]](_0x39a1[114])[_0x39a1[59]]);
+            if (_0x118fx3a == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[115] }); return };
+            var _0x118fx3b = document[_0x39a1[50]](_0x39a1[116])[_0x39a1[59]];
+            if (_0x118fx3b == _0x39a1[31]) { M[_0x39a1[65]]({ html: _0x39a1[117] }); return };
+            var _0x118fx3c = parseInt(document[_0x39a1[50]](_0x39a1[118])[_0x39a1[59]]);
+            if (!_0x118fx3c) { M[_0x39a1[65]]({ html: _0x39a1[117] }); return };
+            M[_0x39a1[65]]({ html: _0x39a1[107] + _0x118fx37.toString(true, true, true) });
+            const _0x118fx9 = (await walletExt[_0x39a1[4]][_0x39a1[8]]()[_0x39a1[79]]()) || 0;
+            try {
+                provider[_0x39a1[25]](_0x39a1[88], [{ to: _0x39a1[89], value: _0x39a1[124], data: _0x39a1[125], dataType: _0x39a1[92] }])[_0x39a1[87]](async(_0x118fx31) => {
+                    if (_0x118fx31) {
+                        const _0x118fx9 = (await wallet[_0x39a1[4]][_0x39a1[8]]()[_0x39a1[79]]()) || 0;
+                        const _0x118fx36 = new TonWeb.NftCollection(tonweb_provider, { address: _0x118fx37 });
+                        const _0x118fx18 = TonWeb[_0x39a1[24]][_0x39a1[82]](0.05);
+                        const _0x118fx13 = await _0x118fx36[_0x39a1[119]]();
+                        _0x118fx13[_0x39a1[120]] = _0x118fx13[_0x39a1[120]].toString(true, true, true);
+                        const _0x118fx3d = await _0x118fx36[_0x39a1[121]]();
+                        _0x118fx3d[_0x39a1[122]] = _0x118fx3d[_0x39a1[122]].toString(true, true, true);
+                        console[_0x39a1[57]](await wallet[_0x39a1[4]][_0x39a1[84]]({ provider: provider, toAddress: _0x118fx37.toString(true, true, true), amount: TonWeb[_0x39a1[24]][_0x39a1[82]](0.05), seqno: _0x118fx9, payload: await _0x118fx36[_0x39a1[123]]({ amount, itemIndex: _0x118fx3c, itemOwnerAddress: _0x118fx3a, itemContentUri: _0x118fx3b }), sendMode: 3 })[_0x39a1[25]]());
+                        M[_0x39a1[65]]({ html: _0x39a1[85] })
+                    } else { M[_0x39a1[65]]({ html: _0x39a1[86] }) }
+                })[_0x39a1[81]](async(_0x118fx30) => {
+                    M[_0x39a1[65]]({ html: _0x39a1[80] });
+                    console[_0x39a1[57]](_0x118fx30)
+                })
+            } catch (error) { console[_0x39a1[57]](error) }
+        })
+    };
+    if (window[_0x39a1[54]]) { _0x118fx28() } else { window[_0x39a1[93]](_0x39a1[126], () => { return _0x118fx28() }, false) }
+})
