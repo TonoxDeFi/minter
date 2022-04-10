@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Tonox Minter</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#006064">
+</head>
+
+<body>
+    <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    <header>
+        <nav class="cyan darken-4 nav-extended">
+            <div class="nav-wrapper">
+                <a href="#" class="brand-logo center">Tonox Minter</a>
+            </div>
+            <div class="nav-content">
+                <ul class="tabs tabs-transparent center">
+                    <li class="tab"><a href="#ft" class="active">Fungible Tokens</a></li>
+                    <li class="tab"><a href="#nft">Non-Fungible Tokens</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div id="modal1" class="modal">
+            <div class="modal-content">
+                <h4>EULA</h4>
+                <p>This service is an advanced SaaS dApp which allow to mint FTs and NFTs (both collections and items) on top of TON Blockchain. Due to his serverless nature, some transaction could fail and you could lose some founds. We have no control
+                    over this, so by using this tool <b>you assume all the risks associated with it.</b> Are you okay with this?</p>
+            </div>
+            <div class="modal-footer">
+                <a href="https://tonox.exchange" class="waves-effect waves-green btn-flat">Nope, take me back</a>
+                <a href="#!" class="modal-close waves-effect waves-green btn-flat">Sure</a>
+            </div>
+        </div>
+
+        <div id="ft" class="col s12">
+            <div class="container">
+                <div class="section">
+                    <div class="row">
+                        <h3>Fungible Tokens</h3>
+                    </div>
+                    <div class="row">
+                        <p class="left-align light">With this simple DAPP you can mint your fungible tokens without sharing your private key or seed. You will need the TON wallet extension for <a href="https://chrome.google.com/webstore/detail/ton-wallet/nphplpgoakhhjchkkhmiggakijnkhfnd">Chrome</a>.
+                            <br>The cost of one mint of a fungible token is <b>2.5 TON (+ 0.1 TON for blockchain fees).</b>
+                            <br>You can manage your tokens (or any other tokens) through our <a href="https://defiwallet.tonox.exchange">DeFiWallet.</a>
+                            <br>In the next future, you will be able to trade your tokens on the <a href="https://tonox.exchange">Tonox Dex.</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="section">
+                    <div class="row">
+                        <form class="col s12">
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <select id="contractft">
+                                      <option value="1" selected>Jetton with minter (by toncenter)</option>
+                                    </select>
+                                    <label>Contract</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="adminft" type="text" class="validate">
+                                    <label for="adminft">Token admin</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="urift" type="text" class="validate">
+                                    <label for="urift">Content URI</label>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="row center">
+                            <button class="btn waves-effect waves-light" id="deployft">deploy FT
+                                <i class="material-icons right">send</i>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+        <div id="nft" class="col s12">
+            <div class="container">
+                <div class="section">
+                    <div class="row">
+                        <h3>Non-Fungible Tokens</h3>
+                    </div>
+                    <div class="row">
+                        <p class="left-align light">With this simple DAPP you can mint your non-fungible tokens without sharing your private key or seed. You will need the TON wallet extension for <a href="https://chrome.google.com/webstore/detail/ton-wallet/nphplpgoakhhjchkkhmiggakijnkhfnd">Chrome</a>.
+                            <br>The cost of one mint of a collection of NTFs <b>1 TON (+ 1 TON for blockchain fees).</b>
+                            <br>The cost of one mint of an NTF item <b>0.3 TON (+ 0.05 TON for blockchain fees).</b>
+                            <br>You can manage your NFT through our <a href="https://defiwallet.tonox.exchange">DeFiWallet.</a>
+                        </p>
+                    </div>
+                </div>
+                <div class="section">
+                    <div class="row">
+                        <form class="col s12">
+                            <div class="row">
+                                <h5>Deploy NFT collection</h5>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <select id="nftcode">
+                                      <option value="1" selected>NftCollection</option>
+                                    </select>
+                                    <label>Contract</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftowner" type="text" class="validate">
+                                    <label for="nftowner">Collection owner</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftroy" type="range" min="0" max="1" step="0.01" value="0" class="validate">
+                                    <div for="nftroy">Royalty</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftroyaddr" type="text" class="validate">
+                                    <div for="nftroyaddr">Royalty address</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftcollectionuri" type="text" class="validate">
+                                    <label for="nftcollectionuri">Collection URI</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftitemuri" type="text" class="validate">
+                                    <label for="nftitemuri">Item URI</label>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="row center">
+                            <button class="btn waves-effect waves-light" id="deploynftcoll">deploy NFT collection
+                                <i class="material-icons right">send</i>
+                        </div>
+                      </div>
+                </div>
+
+                <div class="section">
+                    <div class="row">
+                        <form class="col s12">
+                            <div class="row">
+                                <h5>Deploy NFT item</h5>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <select id="nftitemcode">
+                                      <option value="1" selected>NftItem</option>
+                                    </select>
+                                    <label>Contract</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftitemcolladdr" type="text" class="validate">
+                                    <label for="nftitemcolladdr">Collection address</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftitemindex" type="number" min="0" value="1" class="validate">
+                                    <div for="nftitemindex">Item index</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftitemowneraddr" type="text" class="validate">
+                                    <label for="nftitemowneraddr">New item owner</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="nftitemurisingle" type="text" class="validate">
+                                    <label for="nftitemurisingle">Item URI</label>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="row center">
+                            <button class="btn waves-effect waves-light" id="deploynftitem">deploy NFT collection
+                                <i class="material-icons right">send</i>
+                        </div>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="cyan darken-4 page-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col l6 s12">
+                    <p class="grey-text text-lighten-4 center">Tonox is a decentralized finance service built on TON Blockchain. We assume no responsibility for proper and improper use.</p>
+                </div>
+                <div class="col l4 offset-l2 s12">
+                    <h5 class="white-text">Contacts</h5>
+                    <ul>
+                        <li>
+                            <a class="grey-text text-lighten-3" href="https://tonox.exchange/">Exchange</a>
+                        </li>
+                        <li>
+                            <a class="grey-text text-lighten-3" href="https://t.me/TonoxDeFi">Telegram</a>
+                        </li>
+                        <li>
+                            <a class="grey-text text-lighten-3" href="https://github.com/TonoxDeFi">Github</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="container">
+                © 2022 <a class="grey-text text-lighten-3" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC 4.0</a>
+            </div>
+        </div>
+    </footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script src="tonweb.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var elems = document.querySelectorAll('#modal1');
+            var instances = M.Modal.init(elems, {});
+            console.log(instances);
+            instances[0].open();
+        });
+    </script>
+    <script src="app.js"></script>
+</body>
+
+</html>
