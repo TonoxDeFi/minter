@@ -91,7 +91,39 @@
                         </div>
                       </div>
                 </div>
+                <div class="section">
+                    <div class="row">
+                        <h4>Mint liqudity</h4>
+                    </div>
+                    <div class="row">
+                        <form class="col s12">
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="masterft" type="text" class="validate">
+                                    <label for="masterft">Token master address</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="destinationmintft" type="text" class="validate">
+                                    <label for="destinationmintft">Token destination address</label>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <input id="tokentomintft" type="number" class="validate">
+                                    <label for="tokentomintft">Token to mint</label>
+                                </div>
+                            </div>
+                        </form>
+                        <div class="row center">
+                            <button class="btn waves-effect waves-light" id="mintonft">deploy FT
+                                <i class="material-icons right">send</i>
+                        </div>
+                      </div>
+                </div>
             </div>
+            
         </div>
         <div id="nft" class="col s12">
             <div class="container">
@@ -242,7 +274,6 @@
         document.addEventListener('DOMContentLoaded', function() {
             var elems = document.querySelectorAll('#modal1');
             var instances = M.Modal.init(elems, {});
-            console.log(instances);
             instances[0].open();
         });
     </script>
